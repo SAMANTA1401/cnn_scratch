@@ -1,0 +1,5 @@
+ipykernel
+mnist
+keras
+pillow
+opencv-python
